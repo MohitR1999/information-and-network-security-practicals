@@ -4,3 +4,4 @@ List of Experiments:
 - Caesar Cipher
 - Mono Alphabetic Cipher
 - Poly Alphabetic Cipher
+- Play fair Cipher
